@@ -18,7 +18,7 @@
 .App h1 {
   font-size: 48px;
   /* Larger title */
-  color: #61dafb;
+  color: #103944;
   /* React blue color */
   margin-bottom: 20px;
 }
@@ -26,11 +26,11 @@
 .App h2 {
   font-size: 28px;
   margin-bottom: 30px;
-  color: #ffffff;
+  color: #0b0b0b;
 }
 
 .App button {
-  background-color: #61dafb;
+  background-color: #235360;
   color: black;
   border: none;
   padding: 12px 24px;
@@ -83,7 +83,7 @@
 
 .todo-card button {
   margin-top: auto;
-  background-color: #f44336;
+  background-color: #6ea3ec;
   color: white;
   border: none;
   padding: 10px 16px;
